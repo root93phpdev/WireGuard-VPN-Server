@@ -124,12 +124,3 @@ The example files contain placeholders. They are not ready to use until reviewed
 
 - IPv4-only full-tunnel routing; IPv6 tunneling is intentionally out of scope in this deployment.
 - Single VPS, with no high availability or automatic failover.
-- This is a personal infrastructure/DevOps lab, not a managed commercial VPN service.
-
-## Resume bullet
-
-> Deployed and secured a WireGuard VPN server on Ubuntu VPS; configured SSH key-only access, UFW firewall policies, IPv4 forwarding and NAT, systemd auto-start, and Windows/Android clients. Validated VPN handshakes, DNS, public IPv4 egress, and recovery after server reboot.
-
-## License
-
-No license has been selected. Until a license is added, assume that the repository is provided for viewing and that reuse is not automatically permitted.
