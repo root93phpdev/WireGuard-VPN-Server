@@ -1,4 +1,4 @@
-# TGOPS WireGuard VPN Server
+# WireGuard VPN Server
 
 Документация персонального инфраструктурного проекта: развёртывание WireGuard VPN на Ubuntu VPS, настройка firewall, NAT, systemd и клиентов Windows/Android.
 
