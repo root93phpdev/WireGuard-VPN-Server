@@ -1,4 +1,4 @@
-# TGOPS WireGuard VPN Server
+# WireGuard VPN Server
 
 A documented, IPv4-only WireGuard VPN deployment on an Ubuntu VPS, with firewall hardening, NAT, systemd startup, and Windows/Android clients.
 
