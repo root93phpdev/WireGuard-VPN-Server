@@ -1,0 +1,26 @@
+# Live WireGuard configurations and secrets
+*.key
+*.conf
+!*.conf.example
+*.private
+*.secret
+*.env
+.env.*
+!.env.example
+
+# Backups / archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+backup/
+backups/
+
+# Local/editor files
+*.log
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

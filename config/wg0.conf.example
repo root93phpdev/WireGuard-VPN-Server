@@ -1,0 +1,15 @@
+# Sanitized reference only. Replace placeholders before use.
+[Interface]
+Address = 10.8.0.1/24
+ListenPort = 51820
+PrivateKey = <SERVER_PRIVATE_KEY>
+
+# Example Windows peer
+[Peer]
+PublicKey = <WINDOWS_CLIENT_PUBLIC_KEY>
+AllowedIPs = 10.8.0.2/32
+
+# Example Android peer
+[Peer]
+PublicKey = <ANDROID_CLIENT_PUBLIC_KEY>
+AllowedIPs = 10.8.0.3/32

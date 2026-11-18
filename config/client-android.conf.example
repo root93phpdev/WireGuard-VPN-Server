@@ -1,0 +1,12 @@
+# Sanitized template. Keep the real private key on the Android device.
+[Interface]
+PrivateKey = <ANDROID_CLIENT_PRIVATE_KEY>
+Address = 10.8.0.3/32
+DNS = 1.1.1.1
+MTU = 1420
+
+[Peer]
+PublicKey = <SERVER_PUBLIC_KEY>
+Endpoint = <YOUR_SERVER_PUBLIC_IP>:51820
+AllowedIPs = 0.0.0.0/0
+PersistentKeepalive = 25
